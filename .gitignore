@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+
+book_collection.json
+book_keyword.json
+book_meta.json
+book_suggestion.json
